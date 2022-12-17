@@ -9,7 +9,7 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)  
 [![](https://komarev.com/ghpvc/?username=ThePiGuy3141&style=for-the-badge)](https://thepiguy3141.github.io)  
 ---
-[![](https://github-readme-stats.vercel.app/api?username=ThePiGuy3141&show_icons=true&bg_color=00000000&border_color=aaaaaa88&text_color=888888&custom_title=Stats)](https://thepiguy3141.github.io)  
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePiGuy3141&bg_color=00000000&border_color=aaaaaa88&text_color=888888)](https://thepiguy3141.github.io)
+[![](https://github-readme-stats.vercel.app/api?username=ItsPi3141&show_icons=true&bg_color=00000000&border_color=aaaaaa88&text_color=888888&custom_title=Stats)](https://thepiguy3141.github.io)  
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsPi3141&bg_color=00000000&border_color=aaaaaa88&text_color=888888)](https://thepiguy3141.github.io)
 ---
 [![](profile-3d-contrib/profile-customize.svg)](https://thepiguy3141.github.io)
