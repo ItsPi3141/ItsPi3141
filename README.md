@@ -8,7 +8,7 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)  
 ---
-[![](https://github-readme-stats.vercel.app/api?username=ItsPi3141&show_icons=true&bg_color=88888811&border_color=aaaaaa88&text_color=888888&custom_title=Stats)](https://itspi3141.github.io)  
+[![](https://github-readme-stats.vercel.app/api?username=ItsPi3141&show_icons=true&bg_color=88888811&border_color=aaaaaa88&text_color=888888&custom_title=Stats&rank_icon=percentile)](https://itspi3141.github.io)  
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsPi3141&bg_color=88888811&border_color=aaaaaa88&text_color=888888)](https://itspi3141.github.io)
 ---
 [![](profile-3d-contrib/profile-customize.svg)](https://itspi3141.github.io)
