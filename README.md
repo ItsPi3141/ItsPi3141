@@ -1,7 +1,6 @@
 [![](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Hello!;Welcome+to+my+profile!;Check+out+my+repo+;Look+at+my+stats+below+%F0%9F%91%87+)](https://itspi3141.github.io)  
 ---
 [![](https://dcbadge.vercel.app/api/shield/777662985165864980?style=for-the-badge&theme=discord-inverted)](https://itspi3141.github.io)
-[![XDA-Developers](https://img.shields.io/badge/XDA--Developers-ThePiGuy3141-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)](https://forum.xda-developers.com/m/thepiguy3141.11261259/)
 [![](https://komarev.com/ghpvc/?username=itspi3141&style=for-the-badge)](https://itspi3141.github.io)  
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
 [![Lineageos](https://img.shields.io/badge/LineageOS-167C80?style=for-the-badge&logo=LineageOS&logoColor=white)](https://lineageos.org/)
