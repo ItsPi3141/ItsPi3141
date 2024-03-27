@@ -7,31 +7,31 @@
   "radarColor": "#47a042",
   "growingAnimation": true,
   "contribColors1": [
-    "#efefef",
-    "#ffe7ff",
-    "#edaeda",
-    "#e492ca",
-    "#ba7aad"
+    "#022c22",
+    "#064e3b",
+    "#065f46",
+    "#047857",
+    "#059669"
   ],
   "contribColors2": [
-    "#efefef",
-    "#d8e887",
-    "#8cc569",
-    "#47a042",
-    "#1d6a23"
+    "#1a2e05",
+    "#365314",
+    "#3f6212",
+    "#4d7c0f",
+    "#65a30d"
   ],
   "contribColors3": [
-    "#efefef",
-    "#ffed4a",
-    "#ffc402",
-    "#fe9400",
-    "#fa6100"
+    "#451a03",
+    "#78350f",
+    "#92400e",
+    "#b45309",
+    "#d97706"
   ],
   "contribColors4": [
-    "#efefef",
-    "#999999",
-    "#cccccc",
-    "#dddddd",
-    "#eeeeee"
+    "#0f172a",
+    "#1e293b",
+    "#334155",
+    "#475569",
+    "#64748b"
   ]
 }
