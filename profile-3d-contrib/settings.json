@@ -1,9 +1,9 @@
 {
   "type": "season",
-  "backgroundColor": "#ffffff00",
+  "backgroundColor": "#33333300",
   "foregroundColor": "#888888",
   "strongColor": "#888888",
-  "weakColor": "#888888",
+  "weakColor": "#888888aa",
   "radarColor": "#47a042",
   "growingAnimation": true,
   "contribColors1": [
