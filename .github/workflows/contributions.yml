@@ -1,21 +1,18 @@
-name: GitHub-Profile-3D-Contrib
+name: GitHub-Contributions-JSON
 
 on:
     schedule:
-        - cron: "0 0 * * *"
+        - cron: "0 */12 * * *"
     workflow_dispatch:
 
 jobs:
-    build:
+    update:
         runs-on: ubuntu-latest
-        name: generate-github-profile-3d-contrib
+        name: update-contributions-json
         steps:
             - uses: actions/checkout@v2
-            - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-              env:
-                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-                  USERNAME: ${{ github.repository_owner }}
-                  SETTING_JSON: profile-3d-contrib/settings.json
+            - run: |
+                  node src/contributions.js
 
             - uses: crazy-max/ghaction-import-gpg@v6
               with:
